@@ -9,3 +9,9 @@ nice to see you again!
 
 hello i am jenkin 
 i am changing the newfile.txt in Github with Editor online.
+
+
+What is the difference between add, commit, and push?
+add:add the modified files to staging area, the modified files may be commited later
+commit:commit the modified files in the index to the local repository
+push:push the changes in local repository to remote repository, such as Github
